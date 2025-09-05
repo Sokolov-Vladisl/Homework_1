@@ -17,9 +17,9 @@ public class V_mass<T>{
         A.add("picasso");
         A.add("pablo");
         A.add("again");
-        A.remove("again");
-        A.remove("pablo");
-        A.remove("picasso");
+        //A.remove("again");
+        //A.remove("pablo");
+        //A.remove("picasso");
         A.show();
 
     }
